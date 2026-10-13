@@ -1,0 +1,26 @@
+{
+  "name": "OUR MOMENTS — ふたりだけの家",
+  "short_name": "OUR MOMENTS",
+  "description": "ふたりだけの思い出の家。写真も、手紙も、ふたりの未来も。",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
